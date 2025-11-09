@@ -16,4 +16,4 @@ Projects
 - Holes: Ø15, Ø25, Ø5
 - Scale 1:1
 
-- [📄 **Download Technical Drawing (PDF)**]
+[📄 **Download Technical Drawing (PDF)**]
